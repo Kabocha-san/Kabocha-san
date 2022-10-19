@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kabocha-san
+- 🦎️ Hi, I’m @Kabocha-san
 - 👀 I’m interested in way too much stuff for my own good to be honest.
 - 🌱 I’m currently learning python. I have messed arround with other languages in the past but this is the first time time I am learning how to code  properly (I hope at least).
 
