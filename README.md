@@ -8,7 +8,9 @@ Obviously since I am just learning how to code properly (at this point my abilit
 
 As already stated in my bio I am physically disabled and might be absent and not able to respond for longer amounts of time depending on what my health just decides to do, so development on my repos might get stalled or slow down for some time as well. Otherwise I am also usually busy studying.
 
-My avater is ai generated.
+My avater is ai generated
+
+For now there is not too much to see here yet.
 
 <!---
 Kabocha-san/Kabocha-san is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
