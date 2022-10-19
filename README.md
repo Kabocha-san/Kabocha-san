@@ -1,8 +1,8 @@
 - 🦎️ Hi, I’m @Kabocha-san
 - 👀 I’m interested in way too much stuff for my own good to be honest.
-- 🌱 I’m currently learning python. I have messed arround with other languages in the past but this is the first time time I am learning how to code  properly (I hope at least).
+- 🌱 I’m currently learning python. I have messed arround with other languages in the past but this is the first time time I am learning how to code (I hope at least) properly.
 
-I speak English, German and Japanese.
+I speak English, German and Japanese (my understanding is far, far better than my production; but I can still communicate in Japanese well enough).
 
 Obviously since I am just learning how to code properly (at this point my abilities are at least nearing the mediocre, I think), once I actually publish something more worthwhile my code might be (somewhat?) inefficient, messy and or unelegant or whatever, sorry about that in advance. I guess that is just something to be fixed in time, but that is after all what learning is.
 
