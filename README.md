@@ -1,4 +1,4 @@
-- 🦎️ Hi, I’m @Kabocha-san
+- 🦎️ Hi, I’m the pumpkin.
 - 👀 I’m interested in way too much stuff for my own good to be honest.
 - 🌱 I’m currently learning python. I have messed arround with other languages in the past but this is the first time time I am learning how to code (I hope at least) properly.
 
@@ -11,6 +11,8 @@ As already stated in my bio I am physically disabled and might be absent and not
 My avater is ai generated
 
 For now there is not too much to see here yet.
+
+My username is (obviously) meant to be a pun.
 
 <!---
 Kabocha-san/Kabocha-san is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
