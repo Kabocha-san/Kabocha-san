@@ -1,4 +1,4 @@
-- 🦎️ Hi, I’m 南瓜さん (read as kabocha-san, kabocha means simpy pumpkin in Japanese). 
+- 🦎️ Hi, I’m 南瓜さん (read as kabocha-san, kabocha means pumpkin in Japanese). 
 - 👀 I’m interested in way too much stuff for my own good to be honest.
 - 🌱 I’m currently learning python. I have messed arround with other languages in the past but this is the first time time I am learning how to code (I hope at least) properly.
 
