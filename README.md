@@ -4,7 +4,7 @@
 
 I speak English, German and Japanese (my understanding is far, far better than my production; but I can still communicate in Japanese well enough).
 
-It  has not been all too long since I properly learned to code my skills are at this point at least intermmediate.
+It  has not been all too long since I properly learned to code my skills are at this point at least intermediate.
 
 I am also usually busy studying (if my health allows it).
 
