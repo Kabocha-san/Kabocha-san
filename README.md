@@ -1,11 +1,12 @@
 - 🦎️ Hi, I’m 南瓜さん (read as kabocha-san, kabocha means pumpkin in Japanese). 
 - 👀 I’m interested in way too much stuff for my own good to be honest.
-- 🌱 I’m currently learning python. I have messed arround with other languages in the past but this is the first time time I am learning how to code (I hope at least) properly.
+- 🌱 I am currently in the very early stages of learning 3D modelling (for modding purposes).
 
 I speak English, German and Japanese (my reading understanding is fluent and far, far better than my production; but I can still communicate in Japanese well enough).
 
-It  has not been all too long since I properly learned to code my skills are at this point at least intermediate.
-
+It has not been all too long since I properly learned to code my skills are at this point are at least intermediate.
+The only programming language I have learned properly so far is Python. Before that I had written a simple android app in Java several years ago and messed around with bash scripting before that.
+ 
 As already stated in my bio I am physically disabled and might be absent and not able to respond for longer amounts of time depending on what my health just decides to do, so development on my repos might get stalled or slow down for some time as well.
 
 I am also usually busy studying (if my health allows it).
